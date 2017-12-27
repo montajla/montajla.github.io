@@ -452,8 +452,9 @@ function playPreview(id) {
   bufferSource.disconnect();
   bufferSource = ctx.createBufferSource();
   bufferSource.connect(ctx.destination);
-  bufferSource.buffer = ctx.createBuffer(1, tracks[id].data.length, sampleRate);
-  bufferSource.buffer.getChannelData(0).set(tracks[id].data, 0);
+  var buffer = ctx.createBuffer(1, tracks[id].data.length, sampleRate);
+  buffer.getChannelData(0).set(tracks[id].data, 0);
+  bufferSource.buffer = buffer;
   bufferSource.start();
 }
 
