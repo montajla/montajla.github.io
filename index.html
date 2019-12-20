@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <title>Montajla</title>
     <script src="database.js" charset="UTF-8"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <style>
@@ -401,6 +402,10 @@ function createPlaylistElement(i, id) {
     d_playlist.removeChild(div);
     playlist.splice(i, 1);
   };
+  move.addEventListener('touchstart', function(e) {
+          move.onmousedown(e.touches[0]);
+          e.preventDefault();
+      }, { passive: false });
   div.appendChild(text);
   div.appendChild(move);
   div.appendChild(remove);
@@ -602,6 +607,13 @@ function registerListeners() {
     }
   }
 
+  document.addEventListener('touchmove', function(e) {
+          if (dragDrop.state != 0) {
+              document.onmousemove(e.touches[0]);
+              e.preventDefault();
+          }
+      }, { passive: false });
+
   document.onmouseup = function (e) {
     if (dragDrop.state == 2) {
       var pos = dropPosition();
@@ -614,6 +626,13 @@ function registerListeners() {
     }
     dragDrop.state = 0;
   }
+
+  document.addEventListener('touchend', function(e) {
+          if (dragDrop.state != 0) {
+              document.onmouseup(e.touches[0]);
+              e.preventDefault();
+          }
+      }, { passive: false });
 
   window.onresize = function () {
     refreshLayout();
