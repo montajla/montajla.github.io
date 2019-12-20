@@ -273,7 +273,8 @@ function populateTracks(data, file_tracks) {
   Object.keys(file_tracks).forEach(function (id) {
     var track = file_tracks[id];
     track.id = id;
-    track.data = data.slice(track.start, track.end);
+    track.data = data.slice(Math.floor(track.start * sampleRate),
+                            Math.floor(track.end * sampleRate));
     tracks[id] = track;
   });
   renderTrackList();

@@ -2,1630 +2,1631 @@
 database = [
   {
     "file": "tayyip.mp3",
+    "sample_rate": 44100,
     "tracks": {
       "0": {
-        "start": 142487,
-        "end": 242373,
+        "start": 3.23
+        "end": 5.49
         "text": "sayın başkan",
         "type": "e",
       },
       "1": {
-        "start": 249648,
-        "end": 381439,
+        "start": 5.66
+        "end": 8.64
         "text": "sayın genel sekreter",
         "type": "e",
       },
       "2": {
-        "start": 676577,
-        "end": 806698,
+        "start": 15.34
+        "end": 18.29
         "text": "sizleri saygıyla selamlıyor",
         "type": "e",
       },
       "3": {
-        "start": 998630,
-        "end": 1082160,
+        "start": 22.64
+        "end": 24.53
         "text": "tüm ülkeler",
         "type": "o",
       },
       "4": {
-        "start": 1162906,
-        "end": 1301379,
+        "start": 26.36
+        "end": 29.50
         "text": "hayırlara vesile olmasını diliyorum",
         "type": "y",
       },
       "5": {
-        "start": 1471780,
-        "end": 1549184,
+        "start": 33.37
+        "end": 35.12
         "text": "tebrik ediyor",
         "type": "y",
       },
       "6": {
-        "start": 1549926,
-        "end": 1621205,
+        "start": 35.14
+        "end": 36.76
         "text": "sayın",
         "type": "e",
       },
       "7": {
-        "start": 1699723,
-        "end": 1852861,
+        "start": 38.54
+        "end": 42.01
         "text": "çalışmalarından dolayı teşekkür ediyorum",
         "type": "y",
       },
       "8": {
-        "start": 1940660,
-        "end": 2025303,
+        "start": 44.00
+        "end": 45.92
         "text": "Birleşmiş Milletlerin",
         "type": "o",
         "subtype": "-in -ün",
       },
       "9": {
-        "start": 2031800,
-        "end": 2153939,
+        "start": 46.07
+        "end": 48.84
         "text": "altmış dokuzuncu genel kurulunu",
         "type": "o",
         "subtype": "-i -ü",
       },
       "10": {
-        "start": 2268096,
-        "end": 2368332,
+        "start": 51.43
+        "end": 53.70
         "text": "Birinci Dünya Savaşı'nın",
         "type": "o",
         "subtype": "-in -ün",
       },
       "11": {
-        "start": 2374272,
-        "end": 2535020,
+        "start": 53.83
+        "end": 57.48
         "text": "yüzüncü yıl dönümünde gerçekleştiriyoruz",
         "type": "y",
       },
       "12": {
-        "start": 2645465,
-        "end": 2717671,
+        "start": 59.98
+        "end": 61.62
         "text": "coğrafyanın",
         "type": "o",
         "subtype": "-in -ün",
       },
       "13": {
-        "start": 2721198,
-        "end": 2778555,
+        "start": 61.70
+        "end": 63.00
         "text": "aradan geçen",
         "type": "s",
       },
       "14": {
-        "start": 2779298,
-        "end": 2886216,
+        "start": 63.02
+        "end": 65.44
         "text": "bir asırlık süreye rağmen",
         "type": "s",
       },
       "15": {
-        "start": 2887144,
-        "end": 2944130,
+        "start": 65.46
+        "end": 66.76
         "text": "istikrar",
         "type": "o",
       },
       "16": {
-        "start": 2943944,
-        "end": 2990535,
+        "start": 66.75
+        "end": 67.81
         "text": "huzur",
         "type": "o",
       },
       "17": {
-        "start": 2991649,
-        "end": 3097639,
+        "start": 67.83
+        "end": 70.24
         "text": "barış ve refahtan",
         "type": "b",
       },
       "18": {
-        "start": 3098010,
-        "end": 3146457,
+        "start": 70.24
+        "end": 71.34
         "text": "halen",
         "type": "s",
       },
       "19": {
-        "start": 3146828,
-        "end": 3216622,
+        "start": 71.35
+        "end": 72.93
         "text": "yoksun olduğunu",
         "type": "o",
         "subtype": "-i -ü",
       },
       "20": {
-        "start": 3216065,
-        "end": 3352126,
+        "start": 72.92
+        "end": 76.01
         "text": "üzülerek müşahade ediyoruz",
         "type": "y",
       },
       "21": {
-        "start": 3355467,
-        "end": 3443266,
+        "start": 76.08
+        "end": 78.07
         "text": "Irak'tan Suriye'ye",
         "type": "b",
       },
       "22": {
-        "start": 3444008,
-        "end": 3524754,
+        "start": 78.09
+        "end": 79.92
         "text": "Filistin'den Yemen'e",
         "type": "b",
       },
       "23": {
-        "start": 3524754,
-        "end": 3611810,
+        "start": 79.92
+        "end": 81.90
         "text": "Mısır'dan Libya'ya",
         "type": "b",
       },
       "24": {
-        "start": 3612367,
-        "end": 3752326,
+        "start": 81.91
+        "end": 85.08
         "text": "Afganistan'dan Ukrayna'ya kadar",
         "type": "s",
       },
       "25": {
-        "start": 3753440,
-        "end": 3829916,
+        "start": 85.11
+        "end": 86.84
         "text": "geniş bir coğrafya",
         "type": "o",
       },
       "26": {
-        "start": 3831772,
-        "end": 3916601,
+        "start": 86.88
+        "end": 88.81
         "text": "derin krizler içinde",
         "type": "b",
       },
       "27": {
-        "start": 3919200,
-        "end": 4070978,
+        "start": 88.87
+        "end": 92.31
         "text": "insanlığın vicdanını yaralayan görüntülere",
         "type": "b",
       },
       "28": {
-        "start": 4072894,
-        "end": 4149185,
+        "start": 92.35
+        "end": 94.08
         "text": "sahne oluyor",
         "type": "y",
       },
       "29": {
-        "start": 4155310,
-        "end": 4233271,
+        "start": 94.22
+        "end": 95.99
         "text": "yirmi birinci yüzyılda hala",
         "type": "s",
       },
       "30": {
-        "start": 4330166,
-        "end": 4464184,
+        "start": 98.18
+        "end": 101.22
         "text": "salgın hastalıklardan ölüyor",
         "type": "y",
       },
       "31": {
-        "start": 4465669,
-        "end": 4549756,
+        "start": 101.26
+        "end": 103.16
         "text": "çocuklar ve kadınlar",
         "type": "o",
       },
       "32": {
-        "start": 4550498,
-        "end": 4612125,
+        "start": 103.18
+        "end": 104.58
         "text": "savaşlarda",
         "type": "b",
       },
       "33": {
-        "start": 4611754,
-        "end": 4661871,
+        "start": 104.57
+        "end": 105.71
         "text": "hunharca",
         "type": "s",
       },
       "34": {
-        "start": 4663171,
-        "end": 4739461,
+        "start": 105.74
+        "end": 107.47
         "text": "katlediliyor",
         "type": "y",
       },
       "35": {
-        "start": 4740760,
-        "end": 4781040,
+        "start": 107.50
+        "end": 108.41
         "text": "dünyanın",
         "type": "o",
         "subtype": "-in -ün",
       },
       "36": {
-        "start": 4781040,
-        "end": 4857888,
+        "start": 108.41
+        "end": 110.15
         "text": "zengin ülkeleri",
         "type": "o",
         "subtype": "-i -ü",
       },
       "37": {
-        "start": 4859373,
-        "end": 4958309,
+        "start": 110.18
+        "end": 112.43
         "text": "refah içinde yaşarken",
         "type": "s",
       },
       "38": {
-        "start": 4957566,
-        "end": 5020306,
+        "start": 112.41
+        "end": 113.83
         "text": "fakir ülkeler",
         "type": "o",
       },
       "39": {
-        "start": 5020306,
-        "end": 5073765,
+        "start": 113.83
+        "end": 115.05
         "text": "açlık",
         "type": "o",
       },
       "40": {
-        "start": 5073394,
-        "end": 5137062,
+        "start": 115.04
+        "end": 116.48
         "text": "kötü beslenme",
         "type": "o",
       },
       "41": {
-        "start": 5137805,
-        "end": 5215395,
+        "start": 116.50
+        "end": 118.26
         "text": "salgın hastalıklar",
         "type": "o",
       },
       "42": {
-        "start": 5309505,
-        "end": 5386909,
+        "start": 120.39
+        "end": 122.15
         "text": "boğuşuyor",
         "type": "y",
       },
       "43": {
-        "start": 5387651,
-        "end": 5461900,
+        "start": 122.16
+        "end": 123.85
         "text": "iklim değişikliği",
         "type": "o",
       },
       "44": {
-        "start": 5461714,
-        "end": 5522041,
+        "start": 123.84
+        "end": 125.21
         "text": "dünyamızın",
         "type": "o",
         "subtype": "-in -ün",
       },
       "45": {
-        "start": 5522598,
-        "end": 5546729,
+        "start": 125.22
+        "end": 125.77
         "text": "ve",
         "type": "b",
       },
       "46": {
-        "start": 5546729,
-        "end": 5640097,
+        "start": 125.77
+        "end": 127.89
         "text": "çocuklarımızın geleceğini",
         "type": "o",
         "subtype": "-i -ü",
       },
       "47": {
-        "start": 5640097,
-        "end": 5748685,
+        "start": 127.89
+        "end": 130.35
         "text": "tehdit eden bir unsur olarak",
         "type": "s",
       },
       "48": {
-        "start": 5748871,
-        "end": 5839640,
+        "start": 130.35
+        "end": 132.41
         "text": "insanlığın karşısında",
         "type": "b",
       },
       "49": {
-        "start": 5839826,
-        "end": 5921870,
+        "start": 132.42
+        "end": 134.28
         "text": "önemli bir sınav olarak",
         "type": "s",
       },
       "50": {
-        "start": 5921313,
-        "end": 5984796,
+        "start": 134.27
+        "end": 135.70
         "text": "duruyor",
         "type": "y",
       },
       "51": {
-        "start": 5984610,
-        "end": 6049392,
+        "start": 135.70
+        "end": 137.17
         "text": "bu manzara",
         "type": "o",
       },
       "52": {
-        "start": 6049578,
-        "end": 6227589,
+        "start": 137.17
+        "end": 141.21
         "text": "insan onuruna yaraşır bir manzara değildir",
         "type": "y",
       },
       "53": {
-        "start": 6228146,
-        "end": 6274922,
+        "start": 141.22
+        "end": 142.28
         "text": "ortada",
         "type": "b",
       },
       "54": {
-        "start": 6274366,
-        "end": 6339333,
+        "start": 142.27
+        "end": 143.74
         "text": "bütün insanlığı",
         "type": "o",
         "subtype": "-i -ü",
       },
       "55": {
-        "start": 6339333,
-        "end": 6457388,
+        "start": 143.74
+        "end": 146.42
         "text": "ve elbette birleşmiş milletleri",
         "type": "o",
         "subtype": "-i -ü",
       },
       "56": {
-        "start": 6457388,
-        "end": 6542032,
+        "start": 146.42
+        "end": 148.34
         "text": "doğrudan ilgilendiren",
         "type": "s",
       },
       "57": {
-        "start": 6541661,
-        "end": 6662500,
+        "start": 148.33
+        "end": 151.07
         "text": "bir sorun var demektir",
         "type": "y",
       },
       "58": {
-        "start": 6664913,
-        "end": 6705750,
+        "start": 151.13
+        "end": 152.05
         "text": "burada",
         "type": "b",
       },
       "59": {
-        "start": 6911047,
-        "end": 7051377,
+        "start": 156.71
+        "end": 159.89
         "text": "bir kez daha vurgulamak isterim",
         "type": "y",
       },
       "60": {
-        "start": 7053233,
-        "end": 7137877,
+        "start": 159.93
+        "end": 161.85
         "text": "çocukların öldüğü",
         "type": "s",
       },
       "61": {
-        "start": 7138619,
-        "end": 7171103,
+        "start": 161.87
+        "end": 162.60
         "text": "ve",
         "type": "b",
       },
       "62": {
-        "start": 7170918,
-        "end": 7283961,
+        "start": 162.60
+        "end": 165.16
         "text": "öldürüldüğü bir dünyada",
         "type": "b",
       },
       "63": {
-        "start": 7284147,
-        "end": 7341875,
+        "start": 165.17
+        "end": 166.48
         "text": "hiç kimse",
         "type": "o",
       },
       "64": {
-        "start": 7343731,
-        "end": 7437656,
+        "start": 166.52
+        "end": 168.65
         "text": "masum değildir",
         "type": "y",
       },
       "65": {
-        "start": 7440254,
-        "end": 7573902,
+        "start": 168.71
+        "end": 171.74
         "text": "hiç kimsenin can güvenliği yoktur",
         "type": "y",
       },
       "66": {
-        "start": 7631630,
-        "end": 7717944,
+        "start": 173.05
+        "end": 175.01
         "text": "sürdürülebilir barış",
         "type": "o",
       },
       "67": {
-        "start": 7719058,
-        "end": 7799246,
+        "start": 175.03
+        "end": 176.85
         "text": "ve refah içinde",
         "type": "b",
       },
       "68": {
-        "start": 7799989,
-        "end": 7870711,
+        "start": 176.87
+        "end": 178.47
         "text": "olamaz",
         "type": "y",
       },
       "69": {
-        "start": 7871824,
-        "end": 7978557,
+        "start": 178.49
+        "end": 180.91
         "text": "sadece geçtiğimiz yıl",
         "type": "s",
       },
       "70": {
-        "start": 7983754,
-        "end": 8078236,
+        "start": 181.03
+        "end": 183.17
         "text": "dünya genelinde",
         "type": "b",
       },
       "71": {
-        "start": 8079349,
-        "end": 8174573,
+        "start": 183.20
+        "end": 185.36
         "text": "beş yaşın altında",
         "type": "s",
       },
       "72": {
-        "start": 8176986,
-        "end": 8310077,
+        "start": 185.41
+        "end": 188.43
         "text": "altı milyon üç yüz bin çocuk",
         "type": "o",
       },
       "73": {
-        "start": 8311191,
-        "end": 8414396,
+        "start": 188.46
+        "end": 190.80
         "text": "hayatını kaybetti",
         "type": "y",
       },
       "74": {
-        "start": 8415510,
-        "end": 8503123,
+        "start": 190.82
+        "end": 192.81
         "text": "Suriye'deki savaşta",
         "type": "b",
       },
       "75": {
-        "start": 8503494,
-        "end": 8583497,
+        "start": 192.82
+        "end": 194.63
         "text": "on yedi bin çocuk",
         "type": "o",
       },
       "76": {
-        "start": 8685775,
-        "end": 8765778,
+        "start": 196.95
+        "end": 198.77
         "text": "üç yüz yetmiş beş bin",
         "type": "s",
       },
       "77": {
-        "start": 8765963,
-        "end": 8808471,
+        "start": 198.77
+        "end": 199.73
         "text": "çocuk",
         "type": "o",
       },
       "78": {
-        "start": 8811069,
-        "end": 8885875,
+        "start": 199.79
+        "end": 201.49
         "text": "yaralandı",
         "type": "y",
       },
       "79": {
-        "start": 8887360,
-        "end": 8971075,
+        "start": 201.52
+        "end": 203.42
         "text": "on dokuz bin çocuk",
         "type": "o",
       },
       "80": {
-        "start": 8971818,
-        "end": 9013768,
+        "start": 203.44
+        "end": 204.39
         "text": "en az",
         "type": "s",
       },
       "81": {
-        "start": 9015996,
-        "end": 9130153,
+        "start": 204.44
+        "end": 207.03
         "text": "bir organını kaybetti",
         "type": "y",
       },
       "82": {
-        "start": 9132566,
-        "end": 9205515,
+        "start": 207.08
+        "end": 208.74
         "text": "bu yıl içinde",
         "type": "s",
       },
       "83": {
-        "start": 9208114,
-        "end": 9257489,
+        "start": 208.80
+        "end": 209.92
         "text": "Filistin'in",
         "type": "o",
         "subtype": "-in -ün",
       },
       "84": {
-        "start": 9259160,
-        "end": 9316517,
+        "start": 209.95
+        "end": 211.25
         "text": "sadece",
         "type": "s",
       },
       "85": {
-        "start": 9316888,
-        "end": 9402460,
+        "start": 211.26
+        "end": 213.20
         "text": "Gazze Şeridi'nde",
         "type": "b",
       },
       "86": {
-        "start": 9402831,
-        "end": 9451092,
+        "start": 213.21
+        "end": 214.31
         "text": "en modern",
         "type": "s",
       },
       "87": {
-        "start": 9637085,
-        "end": 9698155,
+        "start": 218.52
+        "end": 219.91
         "text": "dört yüz doksan",
         "type": "s",
       },
       "88": {
-        "start": 9914218,
-        "end": 9968048,
+        "start": 224.81
+        "end": 226.03
         "text": "kameraların",
         "type": "o",
         "subtype": "-in -ün",
       },
       "89": {
-        "start": 10082948,
-        "end": 10123785,
+        "start": 228.63
+        "end": 229.56
         "text": "yani",
         "type": "e",
       },
       "90": {
-        "start": 10122671,
-        "end": 10223649,
+        "start": 229.53
+        "end": 231.82
         "text": "dünyanın gözü önünde",
         "type": "b",
       },
       "91": {
-        "start": 10765478,
-        "end": 10824320,
+        "start": 244.11
+        "end": 245.44
         "text": "acımasızca",
         "type": "s",
       },
       "92": {
-        "start": 10824692,
-        "end": 10908407,
+        "start": 245.45
+        "end": 247.35
         "text": "yok edildiler",
         "type": "y",
       },
       "93": {
-        "start": 10999362,
-        "end": 11054862,
+        "start": 249.41
+        "end": 250.67
         "text": "kadınların",
         "type": "o",
         "subtype": "-in -ün",
       },
       "94": {
-        "start": 11665953,
-        "end": 11718064,
+        "start": 264.53
+        "end": 265.71
         "text": "Irak'ta",
         "type": "b",
       },
       "95": {
-        "start": 11854913,
-        "end": 11905212,
+        "start": 268.81
+        "end": 269.95
         "text": "Mısır'da",
         "type": "b",
       },
       "96": {
-        "start": 12200888,
-        "end": 12291291,
+        "start": 276.66
+        "end": 278.71
         "text": "ithamlara maruz kalıyor",
         "type": "y",
       },
       "97": {
-        "start": 12291517,
-        "end": 12345215,
+        "start": 278.71
+        "end": 279.93
         "text": "anında",
         "type": "s",
       },
       "98": {
-        "start": 12345668,
-        "end": 12443094,
+        "start": 279.94
+        "end": 282.15
         "text": "teröre destek vermekle",
         "type": "o",
       },
       "99": {
-        "start": 12444000,
-        "end": 12567028,
+        "start": 282.17
+        "end": 284.96
         "text": "itham ediliyorlar",
         "type": "y",
       },
       "100": {
-        "start": 12571786,
-        "end": 12664228,
+        "start": 285.07
+        "end": 287.17
         "text": "basın özgürlüğü yok diye",
         "type": "s",
       },
       "101": {
-        "start": 12664681,
-        "end": 12759161,
+        "start": 287.18
+        "end": 289.32
         "text": "bazı ülkeleri",
         "type": "o",
         "subtype": "-i -ü",
       },
       "102": {
-        "start": 13239720,
-        "end": 13326497,
+        "start": 300.22
+        "end": 302.18
         "text": "duymazdan gelmesi",
         "type": "o",
       },
       "103": {
-        "start": 13446580,
-        "end": 13524747,
+        "start": 304.91
+        "end": 306.68
         "text": "kaçmıyor",
         "type": "y",
       },
       "104": {
-        "start": 13527013,
-        "end": 13610391,
+        "start": 306.73
+        "end": 308.62
         "text": "çok açık söylüyorum",
         "type": "e",
       },
       "105": {
-        "start": 14123349,
-        "end": 14190415,
+        "start": 320.25
+        "end": 321.77
         "text": "tanklarla",
         "type": "s",
       },
       "106": {
-        "start": 14256347,
-        "end": 14373711,
+        "start": 323.27
+        "end": 325.93
         "text": "devrilmesine seyirci kalanlar",
         "type": "o",
       },
       "107": {
-        "start": 14593259,
-        "end": 14634268,
+        "start": 330.91
+        "end": 331.84
         "text": "alenen",
         "type": "s",
       },
       "108": {
-        "start": 14635401,
-        "end": 14735999,
+        "start": 331.86
+        "end": 334.14
         "text": "ortak olmaktadır",
         "type": "y",
       },
       "109": {
-        "start": 14735093,
-        "end": 14814393,
+        "start": 334.12
+        "end": 335.92
         "text": "daha da önemlisi",
         "type": "e",
       },
       "110": {
-        "start": 14941500,
-        "end": 15044590,
+        "start": 338.80
+        "end": 341.14
         "text": "bu çifte standart",
         "type": "o",
       },
       "111": {
-        "start": 15512914,
-        "end": 15602862,
+        "start": 351.76
+        "end": 353.80
         "text": "Birleşmiş Milletler'e",
         "type": "b",
       },
       "112": {
-        "start": 16018395,
-        "end": 16103586,
+        "start": 363.22
+        "end": 365.16
         "text": "milyonlarca insanı",
         "type": "o",
         "subtype": "-i -ü",
       },
       "113": {
-        "start": 16360292,
-        "end": 16449561,
+        "start": 370.98
+        "end": 373.00
         "text": "uluslararası terörün",
         "type": "o",
         "subtype": "-in -ün",
       },
       "114": {
-        "start": 16448881,
-        "end": 16605442,
+        "start": 372.99
+        "end": 376.54
         "text": "en temel beslenme kaynaklarından biri de",
         "type": "o",
         "subtype": "-i -ü",
       },
       "115": {
-        "start": 17110017,
-        "end": 17189091,
+        "start": 387.98
+        "end": 389.77
         "text": "tüm dünyada",
         "type": "b",
       },
       "116": {
-        "start": 17237804,
-        "end": 17361965,
+        "start": 390.87
+        "end": 393.69
         "text": "oksijen sağlamaktadır",
         "type": "y",
       },
       "117": {
-        "start": 17364004,
-        "end": 17451461,
+        "start": 393.74
+        "end": 395.72
         "text": "Birleşmiş Milletler'den",
         "type": "b",
       },
       "118": {
-        "start": 18054368,
-        "end": 18142731,
+        "start": 409.39
+        "end": 411.39
         "text": "Iraklılar için",
         "type": "b",
       },
       "119": {
-        "start": 18275955,
-        "end": 18368170,
+        "start": 414.42
+        "end": 416.51
         "text": "son dönemde sorun",
         "type": "o",
       },
       "120": {
-        "start": 18497089,
-        "end": 18547841,
+        "start": 419.43
+        "end": 420.58
         "text": "ve Irak",
         "type": "o",
       },
       "121": {
-        "start": 18550334,
-        "end": 18609469,
+        "start": 420.64
+        "end": 421.98
         "text": "maalesef",
         "type": "e",
       },
       "122": {
-        "start": 18946381,
-        "end": 19082551,
+        "start": 429.62
+        "end": 432.71
         "text": "ülkem Türkiye başta olmak üzere",
         "type": "s",
       },
       "123": {
-        "start": 19171140,
-        "end": 19273097,
+        "start": 434.71
+        "end": 437.03
         "text": "doğrudan etkilemektedir",
         "type": "y",
       },
       "124": {
-        "start": 19562203,
-        "end": 19659855,
+        "start": 443.58
+        "end": 445.80
         "text": "muhafaza ediyoruz",
         "type": "y",
       },
       "125": {
-        "start": 19660988,
-        "end": 19713779,
+        "start": 445.82
+        "end": 447.02
         "text": "barış",
         "type": "o",
       },
       "126": {
-        "start": 19714232,
-        "end": 19755015,
+        "start": 447.03
+        "end": 447.95
         "text": "huzur",
         "type": "o",
       },
       "127": {
-        "start": 19756828,
-        "end": 19817096,
+        "start": 448.00
+        "end": 449.36
         "text": "ve istikrar için",
         "type": "b",
       },
       "128": {
-        "start": 19817323,
-        "end": 19868301,
+        "start": 449.37
+        "end": 450.52
         "text": "Türkiye",
         "type": "o",
       },
       "129": {
-        "start": 19966180,
-        "end": 20062247,
+        "start": 452.74
+        "end": 454.92
         "text": "devam edecektir",
         "type": "y",
       },
       "130": {
-        "start": 20137242,
-        "end": 20197057,
+        "start": 456.62
+        "end": 457.98
         "text": "aynı şekilde",
         "type": "s",
       },
       "131": {
-        "start": 20627316,
-        "end": 20715453,
+        "start": 467.73
+        "end": 469.73
         "text": "temel kaynağıdır",
         "type": "y",
       },
       "132": {
-        "start": 20489334,
-        "end": 20626184,
+        "start": 464.61
+        "end": 467.71
         "text": "zaten bölgedeki bir çok meselenin",
         "type": "o",
         "subtype": "-in -ün",
       },
       "133": {
-        "start": 21100851,
-        "end": 21179925,
+        "start": 478.47
+        "end": 480.27
         "text": "ve İsrail'in yanında",
         "type": "b",
       },
       "134": {
-        "start": 21423716,
-        "end": 21610184,
+        "start": 485.79
+        "end": 490.02
         "text": "insani ve ahlaki bir zorunluluktur",
         "type": "y",
       },
       "135": {
-        "start": 21615622,
-        "end": 21730494,
+        "start": 490.15
+        "end": 492.75
         "text": "bu kürsüde",
         "type": "b",
       },
       "136": {
-        "start": 21913111,
-        "end": 21991278,
+        "start": 496.89
+        "end": 498.66
         "text": "konuşuluyor",
         "type": "y",
       },
       "137": {
-        "start": 21991731,
-        "end": 22034100,
+        "start": 498.67
+        "end": 499.63
         "text": "ama",
         "type": "b",
       },
       "138": {
-        "start": 22034100,
-        "end": 22127674,
+        "start": 499.63
+        "end": 501.76
         "text": "konuşmak yetmez",
         "type": "y",
       },
       "139": {
-        "start": 22128354,
-        "end": 22180919,
+        "start": 501.77
+        "end": 502.96
         "text": "artık",
         "type": "b",
       },
       "140": {
-        "start": 22181598,
-        "end": 22300095,
+        "start": 502.98
+        "end": 505.67
         "text": "icraata ihtiyacımız var",
         "type": "y",
       },
       "141": {
-        "start": 22576513,
-        "end": 22696369,
+        "start": 511.93
+        "end": 514.65
         "text": "bir günde yüzlerce binlerce insanın",
         "type": "o",
         "subtype": "-in -ün",
       },
       "142": {
-        "start": 22794248,
-        "end": 22870603,
+        "start": 516.87
+        "end": 518.60
         "text": "hala biz bunu",
         "type": "o",
       },
       "143": {
-        "start": 22870829,
-        "end": 22962364,
+        "start": 518.61
+        "end": 520.68
         "text": "konuşuyor olmakla",
         "type": "s",
       },
       "144": {
-        "start": 22963497,
-        "end": 23019687,
+        "start": 520.71
+        "end": 521.98
         "text": "gerçekten",
         "type": "s",
       },
       "145": {
-        "start": 23019914,
-        "end": 23119379,
+        "start": 521.99
+        "end": 524.24
         "text": "Birleşmiş Milletler'deki",
         "type": "b",
       },
       "146": {
-        "start": 23202983,
-        "end": 23347763,
+        "start": 526.14
+        "end": 529.42
         "text": "nerelere vardığını göstermesi bakımından da",
         "type": "s",
       },
       "147": {
-        "start": 23440884,
-        "end": 23538989,
+        "start": 531.53
+        "end": 533.76
         "text": "arka arkaya gelmektedir",
         "type": "y",
       },
       "148": {
-        "start": 23541255,
-        "end": 23640267,
+        "start": 533.81
+        "end": 536.06
         "text": "daha fazla gecikmeden",
         "type": "s",
       },
       "149": {
-        "start": 23852111,
-        "end": 23916684,
+        "start": 540.86
+        "end": 542.32
         "text": "küresel vicdan",
         "type": "o",
       },
       "150": {
-        "start": 24030876,
-        "end": 24105872,
+        "start": 544.91
+        "end": 546.61
         "text": "Birleşmiş Milletler",
         "type": "o",
       },
       "151": {
-        "start": 24105645,
-        "end": 24243854,
+        "start": 546.61
+        "end": 549.74
         "text": "sorunlara ağırlığını koymalıdır",
         "type": "y",
       },
       "152": {
-        "start": 24244307,
-        "end": 24378087,
+        "start": 549.75
+        "end": 552.79
         "text": "altını çizerek ifade etmek isterim ki",
         "type": "e",
       },
       "153": {
-        "start": 24420580,
-        "end": 24472465,
+        "start": 553.75
+        "end": 554.93
         "text": "dünya",
         "type": "o",
       },
       "154": {
-        "start": 24473824,
-        "end": 24542579,
+        "start": 554.96
+        "end": 556.52
         "text": "beşten büyüktür",
         "type": "y",
       },
       "155": {
-        "start": 24583938,
-        "end": 24697677,
+        "start": 557.45
+        "end": 560.03
         "text": "Birleşmiş Milletler Güvenlik Konseyi",
         "type": "o",
       },
       "156": {
-        "start": 24763383,
-        "end": 24834073,
+        "start": 561.52
+        "end": 563.13
         "text": "beş ülkenin",
         "type": "o",
         "subtype": "-in -ün",
       },
       "157": {
-        "start": 24835206,
-        "end": 25001510,
+        "start": 563.15
+        "end": 566.92
         "text": "dünya gerçekleriyle bağdaşmayacak şekilde",
         "type": "s",
       },
       "158": {
-        "start": 25361985,
-        "end": 25426105,
+        "start": 575.10
+        "end": 576.55
         "text": "değildir",
         "type": "y",
       },
       "159": {
-        "start": 25516962,
-        "end": 25786695,
+        "start": 578.61
+        "end": 584.73
         "text": "!alkış!",
         "type": "e",
       },
       "160": {
-        "start": 25869055,
-        "end": 25960978,
+        "start": 586.59
+        "end": 588.68
         "text": "bakıyorsunuz bir ülkenin",
         "type": "o",
         "subtype": "-in -ün",
       },
       "161": {
-        "start": 25960978,
-        "end": 26079033,
+        "start": 588.68
+        "end": 591.36
         "text": "iki dudağı arasındadır",
         "type": "y",
       },
       "162": {
-        "start": 26079955,
-        "end": 26151894,
+        "start": 591.38
+        "end": 593.01
         "text": "eğer hayır derse",
         "type": "s",
       },
       "163": {
-        "start": 26153124,
-        "end": 26204466,
+        "start": 593.04
+        "end": 594.20
         "text": "hayır",
         "type": "o",
       },
       "164": {
-        "start": 26204466,
-        "end": 26266260,
+        "start": 594.20
+        "end": 595.60
         "text": "evet derse",
         "type": "s",
       },
       "165": {
-        "start": 26571541,
-        "end": 26644710,
+        "start": 602.52
+        "end": 604.18
         "text": "iki binden fazla",
         "type": "s",
       },
       "166": {
-        "start": 26861451,
-        "end": 26931546,
+        "start": 609.10
+        "end": 610.69
         "text": "üretememiştir",
         "type": "y",
       },
       "167": {
-        "start": 26984117,
-        "end": 27047141,
+        "start": 611.88
+        "end": 613.31
         "text": "dört yıldır",
         "type": "s",
       },
       "168": {
-        "start": 27558711,
-        "end": 27651215,
+        "start": 624.91
+        "end": 627.01
         "text": "bakınız ben şunu da garipsiyorum",
         "type": "e",
       },
       "169": {
-        "start": 28915415,
-        "end": 29015024,
+        "start": 655.67
+        "end": 657.93
         "text": "suç telakki etmiyor",
         "type": "y",
       },
       "170": {
-        "start": 29027629,
-        "end": 29115247,
+        "start": 658.22
+        "end": 660.20
         "text": "bu nasıl bir anlayıştır",
         "type": "y",
       },
       "171": {
-        "start": 29118629,
-        "end": 29210244,
+        "start": 660.28
+        "end": 662.36
         "text": "bu nasıl bir zihniyettir",
         "type": "y",
       },
       "172": {
-        "start": 29211474,
-        "end": 29258204,
+        "start": 662.39
+        "end": 663.45
         "text": "önce bunu",
         "type": "o",
       },
       "173": {
-        "start": 29351971,
-        "end": 29424218,
+        "start": 665.57
+        "end": 667.21
         "text": "neticesi",
         "type": "o",
         "subtype": "-i -ü",
       },
       "174": {
-        "start": 29770696,
-        "end": 29831875,
+        "start": 675.07
+        "end": 676.45
         "text": "suçtur",
         "type": "y",
       },
       "175": {
-        "start": 30586317,
-        "end": 30662868,
+        "start": 693.56
+        "end": 695.30
         "text": "Birleşmiş Milletler de",
         "type": "b",
       },
       "176": {
-        "start": 30841179,
-        "end": 30895288,
+        "start": 699.34
+        "end": 700.57
         "text": "ve",
         "type": "b",
       },
       "177": {
-        "start": 31732737,
-        "end": 31920272,
+        "start": 719.56
+        "end": 723.81
         "text": "bu Birleşmiş Milletler niye var diye merak ediyorum",
         "type": "e",
       },
       "178": {
-        "start": 31923961,
-        "end": 31983603,
+        "start": 723.89
+        "end": 725.25
         "text": "şu anda da",
         "type": "s",
       },
       "179": {
-        "start": 32541287,
-        "end": 32610460,
+        "start": 737.89
+        "end": 739.46
         "text": "çaresizlik",
         "type": "o",
       },
       "180": {
-        "start": 32707916,
-        "end": 32887765,
+        "start": 741.67
+        "end": 745.75
         "text": "daha fazla devam edemeyeceği açıktır",
         "type": "y",
       },
       "181": {
-        "start": 33053779,
-        "end": 33104813,
+        "start": 749.51
+        "end": 750.67
         "text": "daha hızlı",
         "type": "s",
       },
       "182": {
-        "start": 33426389,
-        "end": 33535835,
+        "start": 757.96
+        "end": 760.44
         "text": "çok daha cesur olmalıdır",
         "type": "y",
       },
       "183": {
-        "start": 33622532,
-        "end": 33664342,
+        "start": 762.41
+        "end": 763.36
         "text": "burada",
         "type": "b",
       },
       "184": {
-        "start": 33666187,
-        "end": 33750731,
+        "start": 763.40
+        "end": 765.32
         "text": "şu hususun altını",
         "type": "o",
         "subtype": "-i -ü",
       },
       "185": {
-        "start": 33750731,
-        "end": 33850452,
+        "start": 765.32
+        "end": 767.58
         "text": "özellikle çizmek istiyorum",
         "type": "y",
       },
       "186": {
-        "start": 33665880,
-        "end": 33856455,
+        "start": 763.39
+        "end": 767.71
         "text": "şu hususun altını özellikle çizmek istiyorum",
         "type": "e",
       },
       "187": {
-        "start": 33903833,
-        "end": 33956404,
+        "start": 768.79
+        "end": 769.98
         "text": "din adına",
         "type": "s",
       },
       "188": {
-        "start": 33959479,
-        "end": 34032955,
+        "start": 770.05
+        "end": 771.72
         "text": "terör kavramını",
         "type": "o",
         "subtype": "-i -ü",
       },
       "189": {
-        "start": 34227253,
-        "end": 34274906,
+        "start": 776.12
+        "end": 777.20
         "text": "en başta",
         "type": "b",
       },
       "190": {
-        "start": 34585721,
-        "end": 34664424,
+        "start": 784.25
+        "end": 786.04
         "text": "İslam kavramının",
         "type": "o",
         "subtype": "-in -ün",
       },
       "191": {
-        "start": 34722836,
-        "end": 34822752,
+        "start": 787.36
+        "end": 789.63
         "text": "yan yana kullanılmasına da",
         "type": "b",
       },
       "192": {
-        "start": 34825618,
-        "end": 35149175,
+        "start": 789.69
+        "end": 797.03
         "text": "şiddetle karşı çıkıyoruz",
         "type": "y",
       },
       "193": {
-        "start": 35814194,
-        "end": 35865444,
+        "start": 812.11
+        "end": 813.27
         "text": "tüm dinlere",
         "type": "o",
       },
       "194": {
-        "start": 36079707,
-        "end": 36148247,
+        "start": 818.13
+        "end": 819.68
         "text": "değerli dostlar",
         "type": "e",
       },
       "195": {
-        "start": 36151334,
-        "end": 36226666,
+        "start": 819.75
+        "end": 821.46
         "text": "Türkiye olarak",
         "type": "s",
       },
       "196": {
-        "start": 36426110,
-        "end": 36529228,
+        "start": 825.98
+        "end": 828.32
         "text": "yoğun bir gayret içindeyiz",
         "type": "y",
       },
       "197": {
-        "start": 36596533,
-        "end": 36694711,
+        "start": 829.85
+        "end": 832.07
         "text": "iç işlerine karışmıyoruz",
         "type": "y",
       },
       "198": {
-        "start": 36927499,
-        "end": 37049141,
+        "start": 837.35
+        "end": 840.11
         "text": "bunu güçlü şekilde savunuyoruz",
         "type": "y",
       },
       "199": {
-        "start": 38089584,
-        "end": 38136512,
+        "start": 863.70
+        "end": 864.77
         "text": "din",
         "type": "o",
       },
       "200": {
-        "start": 38043274,
-        "end": 38092671,
+        "start": 862.65
+        "end": 863.77
         "text": "ırk",
         "type": "o",
       },
       "201": {
-        "start": 38137130,
-        "end": 38175413,
+        "start": 864.78
+        "end": 865.65
         "text": "mezheb",
         "type": "o",
       },
       "202": {
-        "start": 38277296,
-        "end": 38369300,
+        "start": 867.96
+        "end": 870.05
         "text": "sadece ve sadece",
         "type": "e",
       },
       "203": {
-        "start": 38748428,
-        "end": 38831170,
+        "start": 878.64
+        "end": 880.52
         "text": "bir buçuk milyon",
         "type": "s",
       },
       "204": {
-        "start": 38976276,
-        "end": 39064575,
+        "start": 883.81
+        "end": 885.81
         "text": "ve çok büyük oranda",
         "type": "s",
       },
       "205": {
-        "start": 39863586,
-        "end": 39949415,
+        "start": 903.93
+        "end": 905.88
         "text": "biz karşılıyoruz",
         "type": "y",
       },
       "206": {
-        "start": 40072909,
-        "end": 40195169,
+        "start": 908.68
+        "end": 911.45
         "text": "maalesef hayır",
         "type": "y",
       },
       "207": {
-        "start": 40673094,
-        "end": 40738546,
+        "start": 922.29
+        "end": 923.77
         "text": "dört milyon",
         "type": "s",
       },
       "208": {
-        "start": 41015792,
-        "end": 41060867,
+        "start": 930.06
+        "end": 931.08
         "text": "Lübnan",
         "type": "o",
       },
       "209": {
-        "start": 41060250,
-        "end": 41097298,
+        "start": 931.07
+        "end": 931.91
         "text": "Ürdün",
         "type": "o",
       },
       "210": {
-        "start": 41098533,
-        "end": 41130642,
+        "start": 931.93
+        "end": 932.66
         "text": "Irak",
         "type": "o",
       },
       "211": {
-        "start": 41255372,
-        "end": 41311562,
+        "start": 935.49
+        "end": 936.76
         "text": "buna mukabil",
         "type": "e",
       },
       "212": {
-        "start": 41312797,
-        "end": 41385041,
+        "start": 936.79
+        "end": 938.43
         "text": "şimdi soruyorum",
         "type": "e",
       },
       "213": {
-        "start": 41757378,
-        "end": 41841354,
+        "start": 946.87
+        "end": 948.78
         "text": "kabul etmiş durumda",
         "type": "y",
       },
       "214": {
-        "start": 41841972,
-        "end": 41888900,
+        "start": 948.79
+        "end": 949.86
         "text": "bakınız",
         "type": "e",
       },
       "215": {
-        "start": 41887665,
-        "end": 41949412,
+        "start": 949.83
+        "end": 951.23
         "text": "yüz otuz bin",
         "type": "s",
       },
       "216": {
-        "start": 42774974,
-        "end": 42879327,
+        "start": 969.95
+        "end": 972.32
         "text": "artık mümkün değildir",
         "type": "y",
       },
       "217": {
-        "start": 43023816,
-        "end": 43122612,
+        "start": 975.59
+        "end": 977.83
         "text": "yüz iki kişiyi",
         "type": "o",
         "subtype": "-i -ü",
       },
       "218": {
-        "start": 43191769,
-        "end": 43315264,
+        "start": 979.40
+        "end": 982.20
         "text": "tedavilerini yapıyoruz",
         "type": "y",
       },
       "219": {
-        "start": 43378246,
-        "end": 43426409,
+        "start": 983.63
+        "end": 984.72
         "text": "otuz bin",
         "type": "s",
       },
       "220": {
-        "start": 43475189,
-        "end": 43597449,
+        "start": 985.83
+        "end": 988.60
         "text": "kucak açan biz olduk",
         "type": "y",
       },
       "221": {
-        "start": 43601154,
-        "end": 43719091,
+        "start": 988.68
+        "end": 991.36
         "text": "New York'ta hareketimizden önce",
         "type": "s",
       },
       "222": {
-        "start": 44037708,
-        "end": 44116744,
+        "start": 998.58
+        "end": 1000.37
         "text": "yine biz olduk",
         "type": "y",
       },
       "223": {
-        "start": 44169230,
-        "end": 44270495,
+        "start": 1001.56
+        "end": 1003.86
         "text": "son beş gün",
         "type": "s",
       },
       "224": {
-        "start": 44556386,
-        "end": 44665061,
+        "start": 1010.34
+        "end": 1012.81
         "text": "arkadaşlarım bana bildirdi",
         "type": "y",
       },
       "225": {
-        "start": 44271113,
-        "end": 44471792,
+        "start": 1003.87
+        "end": 1008.43
         "text": "ülkemize giriş yapan Suriyelilerin sayısını",
         "type": "o",
         "subtype": "-i -ü",
       },
       "226": {
-        "start": 44669383,
-        "end": 44757682,
+        "start": 1012.91
+        "end": 1014.91
         "text": "beş yüz yıl önce",
         "type": "s",
       },
       "227": {
-        "start": 44759535,
-        "end": 44844761,
+        "start": 1014.95
+        "end": 1016.88
         "text": "Avrupa'dan kovulan",
         "type": "s",
       },
       "228": {
-        "start": 44896614,
-        "end": 44962066,
+        "start": 1018.06
+        "end": 1019.54
         "text": "Musevilere",
         "type": "o",
       },
       "229": {
-        "start": 45964226,
-        "end": 46051289,
+        "start": 1042.27
+        "end": 1044.24
         "text": "gururla ifade etmeliyim ki",
         "type": "e",
       },
       "230": {
-        "start": 46055612,
-        "end": 46101922,
+        "start": 1044.34
+        "end": 1045.39
         "text": "Türkiye",
         "type": "o",
       },
       "231": {
-        "start": 46434123,
-        "end": 46536624,
+        "start": 1052.92
+        "end": 1055.25
         "text": "en cömert ülkesi oldu",
         "type": "y",
       },
       "232": {
-        "start": 46383490,
-        "end": 46432888,
+        "start": 1051.77
+        "end": 1052.89
         "text": "dünyanın",
         "type": "o",
         "subtype": "-in -ün",
       },
       "233": {
-        "start": 46537241,
-        "end": 46615043,
+        "start": 1055.26
+        "end": 1057.03
         "text": "bütün bunların ötesinde",
         "type": "e",
       },
       "234": {
-        "start": 46741625,
-        "end": 46789788,
+        "start": 1059.90
+        "end": 1060.99
         "text": "terör",
         "type": "o",
       },
       "235": {
-        "start": 47124459,
-        "end": 47189911,
+        "start": 1068.58
+        "end": 1070.06
         "text": "muhafaza ediyoruz",
         "type": "y",
       },
       "236": {
-        "start": 47377005,
-        "end": 47457277,
+        "start": 1074.30
+        "end": 1076.12
         "text": "teröre destek veren",
         "type": "s",
       },
       "237": {
-        "start": 47567805,
-        "end": 47619672,
+        "start": 1078.63
+        "end": 1079.81
         "text": "bilakis",
         "type": "b",
       },
       "238": {
-        "start": 47619672,
-        "end": 47790095,
+        "start": 1079.81
+        "end": 1083.67
         "text": "teröre karşı en etkili mücadeleyi veren ülkedir",
         "type": "y",
       },
       "239": {
-        "start": 47793183,
-        "end": 47838258,
+        "start": 1083.74
+        "end": 1084.76
         "text": "zira",
         "type": "b",
       },
       "240": {
-        "start": 47839493,
-        "end": 47887039,
+        "start": 1084.79
+        "end": 1085.87
         "text": "terörden",
         "type": "b",
       },
       "241": {
-        "start": 47887656,
-        "end": 48032762,
+        "start": 1085.88
+        "end": 1089.17
         "text": "çok çekmiş bir ülkeyiz otuz yıldır",
         "type": "y",
       },
       "242": {
-        "start": 47964840,
-        "end": 48032762,
+        "start": 1087.63
+        "end": 1089.17
         "text": "otuz yıldır",
         "type": "s",
       },
       "243": {
-        "start": 48035850,
-        "end": 48118591,
+        "start": 1089.24
+        "end": 1091.12
         "text": "hala çekiyoruz",
         "type": "y",
       },
       "244": {
-        "start": 48167372,
-        "end": 48249496,
+        "start": 1092.23
+        "end": 1094.09
         "text": "anti semitizmin",
         "type": "o",
         "subtype": "-in -ün",
       },
       "245": {
-        "start": 48483518,
-        "end": 48538473,
+        "start": 1099.39
+        "end": 1100.64
         "text": "şahsım",
         "type": "o",
       },
       "246": {
-        "start": 48744710,
-        "end": 48960825,
+        "start": 1105.32
+        "end": 1110.22
         "text": "dünyadaki belki de istisna siyasilerden bir tanesidir",
         "type": "y",
       },
       "247": {
-        "start": 49289321,
-        "end": 49410964,
+        "start": 1117.67
+        "end": 1120.42
         "text": "özellikle vurguluyorum",
         "type": "y",
       },
       "248": {
-        "start": 50711363,
-        "end": 50765701,
+        "start": 1149.91
+        "end": 1151.14
         "text": "terörün",
         "type": "o",
         "subtype": "-in -ün",
       },
       "249": {
-        "start": 50766318,
-        "end": 50824978,
+        "start": 1151.16
+        "end": 1152.49
         "text": "zalimlerin",
         "type": "o",
         "subtype": "-in -ün",
       },
       "250": {
-        "start": 50826213,
-        "end": 50884256,
+        "start": 1152.52
+        "end": 1153.83
         "text": "katillerin",
         "type": "o",
         "subtype": "-in -ün",
       },
       "251": {
-        "start": 50886186,
-        "end": 50951903,
+        "start": 1153.88
+        "end": 1155.37
         "text": "özellikle de",
         "type": "e",
       },
       "252": {
-        "start": 51079700,
-        "end": 51149329,
+        "start": 1158.26
+        "end": 1159.84
         "text": "dimdik duracak",
         "type": "s",
       },
       "253": {
-        "start": 51257127,
-        "end": 51307787,
+        "start": 1162.29
+        "end": 1163.44
         "text": "daha güçlü",
         "type": "s",
       },
       "254": {
-        "start": 51785474,
-        "end": 51860886,
+        "start": 1174.27
+        "end": 1175.98
         "text": "yolumuz ortaktır",
         "type": "y",
       },
       "255": {
-        "start": 51861580,
-        "end": 51941850,
+        "start": 1175.99
+        "end": 1177.81
         "text": "ve güç birliği yaparız",
         "type": "y",
       },
       "256": {
-        "start": 51942081,
-        "end": 51992510,
+        "start": 1177.82
+        "end": 1178.96
         "text": "esasen",
         "type": "e",
       },
       "257": {
-        "start": 52177108,
-        "end": 52222447,
+        "start": 1183.15
+        "end": 1184.18
         "text": "bu arada",
         "type": "e",
       },
       "258": {
-        "start": 52223141,
-        "end": 52282823,
+        "start": 1184.19
+        "end": 1185.55
         "text": "Türkiye'nin",
         "type": "o",
         "subtype": "-in -ün",
       },
       "259": {
-        "start": 52284211,
-        "end": 52350139,
+        "start": 1185.58
+        "end": 1187.07
         "text": "Birleşmiş Milletler",
         "type": "o",
       },
       "260": {
-        "start": 52503045,
-        "end": 52562264,
+        "start": 1190.54
+        "end": 1191.88
         "text": "iki bin on beş",
         "type": "s",
       },
       "261": {
-        "start": 52919199,
-        "end": 53003864,
+        "start": 1199.98
+        "end": 1201.90
         "text": "şükranlarımı sunuyorum",
         "type": "y",
       },
       "262": {
-        "start": 53285387,
-        "end": 53338361,
+        "start": 1208.28
+        "end": 1209.48
         "text": "yoksulluğu",
         "type": "o",
         "subtype": "-i -ü",
       },
       "263": {
-        "start": 53942120,
-        "end": 53983990,
+        "start": 1223.17
+        "end": 1224.12
         "text": "Türkiye'nin",
         "type": "o",
         "subtype": "-in -ün",
       },
       "264": {
-        "start": 54179922,
-        "end": 54252790,
+        "start": 1228.56
+        "end": 1230.22
         "text": "teşekkür ediyorum",
         "type": "y",
       }
